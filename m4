@@ -1,4 +1,3 @@
 hi
 hello
-namste
-namaskara
+good morning
